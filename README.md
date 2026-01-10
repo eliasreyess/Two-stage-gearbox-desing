@@ -19,3 +19,8 @@ Designed and analyzed the countershaft, accounting for combined bending and tors
 Developed detailed 3D CAD models of the shaft and gearbox components and conducted finite element analysis (FEA) to validate analytical results. FEA confirmed peak stresses at the second-stage pinion and keyway regions, consistent with hand calculations.
 
 Produced engineering drawings, exploded views, and assembly models, and supported scaled redesign for 3D printing, including recalculating allowable power transmission for polycarbonate material.
+<p align="center">
+  <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
+    <img src="assets/download.svg" alt="back" width="32">
+  </a>
+</p>
