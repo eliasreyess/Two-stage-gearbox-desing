@@ -14,8 +14,16 @@ My primary contributions to this project focused on the analysis, validation, an
 
 Performed gear stress calculations using AGMA bending stress equations, including endurance limit evaluation, face-width sizing, and safety factor verification. These calculations were implemented and iterated in MATLAB to efficiently evaluate design changes.
 
+<p align="center">
+  <img src="assets/matlab sim.png" width="300">
+</p>
+<p align= "center">
+  <img src="assets/simulink.png" width="500" >
+</p>  
 Designed and analyzed the countershaft, accounting for combined bending and torsional loads and evaluating failure using von Mises criteria. Stress concentration effects from shoulders and keyways were explicitly included.
-
+<p align= "center">
+  <img src="assets/FEA SNAPSHOT.png" width="500" >
+</p>  
 Developed detailed 3D CAD models of the shaft and gearbox components and conducted finite element analysis (FEA) to validate analytical results. FEA confirmed peak stresses at the second-stage pinion and keyway regions, consistent with hand calculations.
 
 Produced engineering drawings, exploded views, and assembly models, and supported scaled redesign for 3D printing, including recalculating allowable power transmission for polycarbonate material.
